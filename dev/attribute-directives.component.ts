@@ -16,6 +16,6 @@ import {HighlightDirective} from "./highlight.directive";
   directives: [HighlightDirective]
 })
 
-export class AttributeDirectivesComponent {
+export class AttributeDirectives {
 
 }
